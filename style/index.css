@@ -1,1 +1,179 @@
-!
+/* Estilo para o parágrafo com classe .h1 */
+/* Estilo para o parágrafo com id #h3 */
+body {
+    display: flex;
+
+}
+
+.decorativo {
+    width: 3%;
+    background-color: blue;
+    border-radius: 16px 0px 0px 16px;
+}
+
+.resumo {
+    width: 30%;
+    background-color: rgb(196, 237, 255);
+    padding-bottom: 3%;
+
+}
+
+.infPessoal {
+    width: 67%;
+    padding-left: 3%;
+    padding-top: 3%;
+    background-color: rgba(11, 43, 158, 0.21);
+
+
+}
+
+.imgWagner {
+   border-radius: 400px;
+
+}
+
+.identificacao img {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+
+.identificacao h1 {
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.identificacao h2 {
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+hr {
+    width: 100%;
+}
+
+.identificacao {
+    background-color: rgb(148, 151, 150);
+    padding-bottom: 5%;
+}
+
+.identificacao p {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.contato div {
+    display: flex;
+    align-items: center;
+    padding-left: 3%;
+    padding-top: 3%;
+
+}
+
+.contato img {
+    width: 40px;
+    height: 40px;
+    padding-right: 3%;
+}
+
+.contato p {
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.idiomas h1,
+.habilidades h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.idiomas div, .habilidades div {
+    display: flex;
+    align-items: center;
+    padding-left: 3%;
+    padding-top: 3%;}
+
+  .idiomas img, .habilidades img {
+    width: 64px;
+    padding-right: 3%;
+    padding-top: 0%;
+
+  }
+
+  #dot {
+    height: 24px;
+    width: 24px;
+    margin-right: 4px;
+  }
+
+  .img_title {
+    width: 64px;
+    padding-right: 3%;
+  } 
+
+  .bolinha_azul {
+    height: 6px;
+    width: 6px;
+    background-color: blue;
+    border-radius: 100%;
+    margin-right: 4px;
+  }
+
+  .bolinha_branca {
+    height: 6px;
+    width: 6px;
+    background-color: white;
+    border-radius: 100%;
+    margin-right: 4px;
+  }
+
+  .idiomas p {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    width: 120px;
+  }
+
+  .infPessoal2{
+    display: flex;
+    align-items: center;
+    
+  }
+
+  .infPessoal2 img{
+    padding-right: 10px;
+  }
+
+  .imgInf {
+    width: 64px;
+    padding-right: 3%;
+    padding-top: 6%;
+  }
+
+    span p {
+margin-top: 0;
+margin-bottom: 0;
+width: 90%;
+padding-left: 3%;
+
+    }
+
+    span h3{
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+  
